@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sinbadbd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning SwiftUI/Combine 
+- 👋 Hi, I’m Imran 
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning SwiftUI/Combine
 - 📫 How to reach me ...
 
 <!---
