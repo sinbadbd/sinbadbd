@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Imran
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
-
+<!--
 Software Engineer
 -----------------
-
+-->
 <b>Front-End Developer Journey</b> I started journey as a front-end developer & working with HTML, CSS, JavaScript, jQuery, and Bootstrap. I gained practical experience by working on a variety of web projects, my skills in web design and user interface development. 
 <br><br>
 <b>Transition to iOS Development</b> I became interested in iOS development and embarked on a new path. I dedicated myself to learning iOS app development. I established myself as a passionate iOS developer
