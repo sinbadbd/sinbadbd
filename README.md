@@ -11,7 +11,7 @@ Software Engineer
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [imufun1@gmail.com](mailto:imufun1@gmail.com)
 * 🚀  I'm currently working on [My personal few projects](http://imranbd.netlify.app/)
-* 🧠  I'm learning SwiftUI 
+* 🧠  I'm learning SwiftUI + Combine + 
 <!-- & <a href="https://github.com/pointfreeco/swift-composable-architecture" target="_blank" rel="noreferrer">TCA(The Composable Architecture)</a> -->
 <!-- * 🖥️  See my portfolio at [Imran Portfolio](http://imranbd.netlify.app/)-->
 
