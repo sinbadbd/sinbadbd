@@ -8,7 +8,6 @@ Software Engineer
 <br><br>
 <b>Transition to iOS Development</b> I became interested in iOS development and embarked on a new path. I dedicated myself to learning iOS app development. I established myself as a passionate iOS developer
 
-* 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [imufun1@gmail.com](mailto:imufun1@gmail.com)
 * 🚀  I'm currently working on [My personal few projects](http://imranbd.netlify.app/)
 * 🧠  
