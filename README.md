@@ -9,9 +9,7 @@ Software Engineer
 <b>Transition to iOS Development</b> I became interested in iOS development and embarked on a new path. I dedicated myself to learning iOS app development. I established myself as a passionate iOS developer
 
 * ✉️  You can contact me at [imufun1@gmail.com](mailto:imufun1@gmail.com)
-* 🚀  I'm currently working on [My personal few projects](http://imranbd.netlify.app/)
-* 
-* 🧠  
+* 🚀  I'm currently working on [My personal few projects](http://imranbd.netlify.app/) 
 <!-- & <a href="https://github.com/pointfreeco/swift-composable-architecture" target="_blank" rel="noreferrer">TCA(The Composable Architecture)</a> -->
 <!-- * 🖥️  See my portfolio at [Imran Portfolio](http://imranbd.netlify.app/)-->
 ![](https://komarev.com/ghpvc/?username=sinbadbd)
